@@ -1,0 +1,90 @@
+/*nav*/
+.navbar{
+    background-color: black;
+}
+.nav-item a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.nav-item a:hover{
+    border-bottom: 2px solid white;
+}
+
+.nav-item a:visited{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 50px;
+}
+.navbar-brand:hover{
+    color: red;
+}
+a.nav-link.active:hover {
+    color: red;
+}
+/*fin nav*/
+section.v-league {
+    background-color: white;
+}
+
+/*seccion top*/
+.card.mb-3 {
+    background-color: transparent;
+    border: none;
+}
+
+
+h1.text-center.titulo-uno {
+    padding: 60px;
+}
+
+/*fin seccion top*/
+
+h2.text-center.titulo-dos {
+    padding: 60px;
+}
+
+
+/*seccion medallas*/
+.col.tablas-uno {
+    padding: 0;
+}
+.col.tablas-dos {
+    padding: 0;
+}
+.col.tablas-tres {
+    padding: 0;
+}
+
+.col.tablas-cuatro {
+    padding: 0;
+}
+
+li.list-group-item.text-center.color-total {
+    background-color: antiquewhite;
+}
+/*fin de seccion medallas*/
+
+
+
+/*footer*/
+.footer-color{
+    background-color: black;
+}
+
+h2.text-center.titulo-footer {
+    padding: 20px;
+    color: white;
+}
+
+.icons.color {
+    padding: 10px;
+    color: white;
+}
+.contactos-dos {
+    color: white;
+}
+/*fin footer*/
